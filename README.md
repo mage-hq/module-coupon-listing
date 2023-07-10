@@ -1,5 +1,5 @@
 # module-coupon-listing
-The Coupon Listing extension free allows customers to view all available coupons as a list on the shopping cart and checkout page. To use the coupon customer simply click the Apply Coupon button to get the discount.
+You can display a list of available coupons on the cart and checkout page for your customers with the Magento 2 Coupon Listing extension
 
 Please go to https://magehq.com/coupon-listing.html download free extension
 
